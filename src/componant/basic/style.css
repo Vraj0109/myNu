@@ -1,0 +1,34 @@
+.card-number{
+    border-radius: 20px;
+    width: 26px;
+    text-align: center;
+    border-color: #59C1BD;
+    border: 1px solid;
+    margin-bottom: 3px;
+}
+.catagory{
+    font-size: small;
+    color: #819b92;
+}
+.price{
+    font-size: small;
+    color: #006e87;
+    font-size: medium;
+    font-weight: 600;
+}
+.btn{
+    background-color: #0D4C92;
+    color: #CFF5E7;
+}
+.btn:hover{
+    background-color:  #12529b;
+    color: #9dbaaf;
+}
+.card-title{
+    font-weight:700;
+    color: #062c56;
+}
+.img-fluid{
+    object-fit: cover;
+    height: 250px;
+}
